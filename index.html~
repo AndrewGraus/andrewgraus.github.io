@@ -32,7 +32,7 @@
 							<article id="home" class="panel intro">
 								<header>
 									<h1>Andrew Graus</h1>
-									<p>Harlan J. Smith Fellow</p>
+									<p>Harlan Smith Fellow</p>
 									<p>University of Texas at Austin</p>
 								</header>
 								        <a href="#About" class="jumplink pic">
@@ -87,11 +87,11 @@
 								</p>
 
 								<p>
-								  Below are visualizations of three simulations that I've run with GIZMO. Each of these galaxies has a stellar mass around 1 &times 10<sup>8</sup> M<sub>&#9737</sub>, which is roughly the mass of the Small Magellanic Cloud (SMC).  
+								  Below are visualizations of two simulations that I've run with GIZMO. On the left is a 
 								</p>
 
 								
-								<img src="images/h1160816_20kpc.png" alt="h116" style="width:32%"> <img src="images/h986495_20kpc.png" alt="h986" style="width:32%"> <img src="images/h548145_20kpc.png" alt="h548" style="width:32%">
+								<img src="images/h1160816_20kpc.png" alt="h116" style="width:32%"> <img src="images/h986495_20kpc.png" alt="h986" style="width:32%"> <img src="images/h548154_20kpc.png" alt="h548" style="width:32%">
 
 
                                                                 <h3>Milky Way Satellites</h3>
